@@ -1,0 +1,6 @@
+# Hola mundo
+
+Este es un documento de prueba para subir a GitHub.
+
+Mi nombre es Duban José.
+Tengo 25 años de edad.
